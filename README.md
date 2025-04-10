@@ -41,6 +41,13 @@ Se desarrolló una API REST para gestionar productos.
 - ✅ Comprobación de respuestas correctas (`200 OK`, `201 Created`, `204 No Content`, etc.)
 - ✅ Comportamiento validado con datos reales
 
+## 📌 Día 5: Pruebas e Integración con Frontend ✅
+
+- ✅ Todos los endpoints han sido probados con Postman.
+- ✅ Se validaron respuestas como `200 OK`, `201 Created`, `204 No Content`, etc.
+- ✅ El backend se encuentra listo para consumir desde el frontend Angular (CORS habilitado).
+- ✅ Ya se está usando desde el frontend para mostrar productos en la vista.
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
